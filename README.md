@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juané Boonzaaier</h1>
 <h3 align="center">A aspiring an passionate Software Engineer from South-Africa</h3>
 
-- 🔭 I’m currently working on **Task Manager**
+- 🔭 I’m currently working on a **Task Manager**
 
-- 🌱 I’m currently learning **Data Structures and Algoritihms**
+- 🌱 I’m currently learning **Software Engineering tecniques and Java OOP**
 
 - 📫 How to reach me **juanebnz@gmail.com**
 
