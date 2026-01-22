@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Task Manager**
 
-- 🌱 I’m currently learning **Software Engineering tecniques and Java OOP**
+- 🌱 I’m currently learning **Software Engineering tecniques and building modern website**
 
 - 📫 How to reach me **juanebnz@gmail.com**
 
